@@ -75,8 +75,20 @@ public class EnergyBar : MonoBehaviour {
     // Methods
     // ===========================================================
     
-    public void SetValueCurrent(int valueCurrent) {
+    /*public void SetValueCurrent(int valueCurrent) {
         this.valueCurrent = valueCurrent;
+    }*/
+
+    void adjustAwareness(int Awareness) {
+        valueCurrent = Awareness;
+    }
+
+    void adjustCoolness(int Coolness) {
+        valueCurrent = Coolness;
+    }
+
+    void adjustHealthiness(int Healthiness) {
+        valueCurrent = Healthiness;
     }
     
     public void SetValueMin(int valueMin) {

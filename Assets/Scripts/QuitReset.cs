@@ -9,9 +9,6 @@ public class QuitReset : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-
-		bgmSound = GetComponent<AudioSource>();
-		bgmSound.Play();
 	
 	}
 	
