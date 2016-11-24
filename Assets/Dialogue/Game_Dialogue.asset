@@ -347,7 +347,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Healthiness greatly increased!
+        value: '> Healthiness greatly increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -1376,7 +1376,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Coolness decreased!
+        value: '> Coolness decreased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -1581,7 +1581,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Healthiness increased!
+        value: '> Healthiness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -1923,7 +1923,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness increased!
+        value: '> Awareness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -2195,7 +2195,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Coolness increased!
+        value: '> Coolness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -3083,7 +3083,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Coolness increased!
+        value: '> Coolness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -3219,7 +3219,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness increased!
+        value: '> Awareness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -3623,7 +3623,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Healthiness decreased!
+        value: '> Healthiness decreased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -3760,7 +3760,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness increased!
+        value: '> Awareness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -4119,7 +4119,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Coolness increased!
+        value: '> Coolness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -4135,7 +4135,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: Attribute(Healthiness,2);
+        value: Attribute(Coolness,1);
         type: 0
         typeString: 
       conversationID: 0
@@ -4156,7 +4156,7 @@ MonoBehaviour:
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 482
+        x: 481
         y: 211
         width: 160
         height: 30
@@ -4370,7 +4370,7 @@ MonoBehaviour:
         y: 363
         width: 160
         height: 30
-    - id: 20
+    - id: 21
       fields:
       - title: Title
         value: New Dialogue Entry
@@ -4438,7 +4438,7 @@ MonoBehaviour:
         y: 425
         width: 160
         height: 30
-    - id: 21
+    - id: 20
       fields:
       - title: Title
         value: New Dialogue Entry
@@ -4502,7 +4502,7 @@ MonoBehaviour:
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 241
+        x: 240
         y: 424
         width: 160
         height: 30
@@ -5148,7 +5148,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness decreased!
+        value: '> Awareness decreased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -5164,7 +5164,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Awareness,-1);
         type: 0
         typeString: 
       conversationID: 0
@@ -5216,7 +5216,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Coolness increased!
+        value: '> Coolness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -5232,7 +5232,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Coolness,1);
         type: 0
         typeString: 
       conversationID: 0
@@ -5629,7 +5629,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness greatly increased!
+        value: '> Awareness greatly increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -5645,7 +5645,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Awareness,2);
         type: 0
         typeString: 
       conversationID: 0
@@ -6380,7 +6380,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Coolness increased!
+        value: '> Coolness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -6396,7 +6396,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Coolness,1);
         type: 0
         typeString: 
       conversationID: 0
@@ -6655,7 +6655,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness increased!
+        value: '> Awareness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -6671,7 +6671,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Awareness,1);
         type: 0
         typeString: 
       conversationID: 0
@@ -7061,7 +7061,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness increased!
+        value: '> Awareness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -7077,7 +7077,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Awareness,1);
         type: 0
         typeString: 
       conversationID: 0
@@ -7198,7 +7198,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Healthiness decreased!
+        value: '> Healthiness decreased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -7214,7 +7214,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Healthiness,-1);
         type: 0
         typeString: 
       conversationID: 0
@@ -7421,7 +7421,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: The streets are alive with sound and color.
+        value: "A giant sign attached to the freeway welcomes you to the foreigner-friendly
+          neighborhood.\r"
         type: 0
         typeString: 
       - title: Parenthetical
@@ -7489,8 +7490,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You feel a surge of energy pouring out of every roaring doorway and
-          bustling back alley.
+        value: This is Tokyo's melting pot, with an amazing blend of local and international
+          citizens.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -7558,7 +7559,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Healthiness greatly increased!
+        value: '> Awareness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -7574,7 +7575,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: Attribute(Healthiness,2);
+        value: Attribute(Awareness,1);
         type: 0
         typeString: 
       conversationID: 4
@@ -7626,7 +7627,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Across the street a bright, flashing arcade catches your eye.
+        value: In the distance you see Tokyo Tower rising a full 333 meters into the
+          sky.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -7694,7 +7696,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Directly ahead you see a small but cute maid cafe.
+        value: Meanwhile, the sleek, modern Mori Tower looms in front of you.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -7809,7 +7811,7 @@ MonoBehaviour:
         y: 363
         width: 160
         height: 30
-    - id: 20
+    - id: 21
       fields:
       - title: Title
         value: New Dialogue Entry
@@ -7836,7 +7838,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Maid cafe
+        value: Mori Tower
         type: 0
         typeString: 
       - title: Parenthetical
@@ -7877,7 +7879,7 @@ MonoBehaviour:
         y: 425
         width: 160
         height: 30
-    - id: 21
+    - id: 20
       fields:
       - title: Title
         value: New Dialogue Entry
@@ -7904,7 +7906,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Arcade
+        value: "Tokyo Tower\r"
         type: 0
         typeString: 
       - title: Parenthetical
@@ -7972,8 +7974,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: The arcade is full of deafening noise and rainbow lights, but somehow
-          you feel at home.
+        value: You reach the base of the tower and prepare to ascend to check out
+          the Tokyo skyline.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8041,7 +8043,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You spot an arcade game nearby where you have to dance to score points.
+        value: But before you can get inside, a small group of businessmen approach
+          you.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8109,7 +8112,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Beyond that you notice a variety of cute and colorful photo booths.
+        value: Laughing and stumbling slightly, they invite you to drink with them
+          at a company afterparty.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8177,7 +8181,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: What would you like to do?
+        value: Which would you prefer?
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8251,7 +8255,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Dancing game
+        value: Drinking
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8319,7 +8323,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Photo booth
+        value: Skyline
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8387,8 +8391,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You manage to insert some change into the machine and select a song
-          to dance to.
+        value: The rowdy band of office workers lead you to a nearby izakaya.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8456,7 +8459,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: The bubbly electronic dance music fills you with joy!
+        value: You wind up in their private room, which is stocked with food and drinks
+          of all kinds.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8524,8 +8528,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: After a few more songs, you decide to head out in search of another
-          adventure...
+        value: Unfortunately, the alcohol seems to have damaged your memory unit.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8551,12 +8554,18 @@ MonoBehaviour:
       delaySimStatus: 0
       falseConditionAction: Block
       conditionPriority: 2
-      outgoingLinks: []
+      outgoingLinks:
+      - originConversationID: 4
+        originDialogueID: 30
+        destinationConversationID: 4
+        destinationDialogueID: 68
+        isConnector: 0
+        priority: 2
       conditionsString: 
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 123
+        x: 122
         y: 1078
         width: 160
         height: 30
@@ -8587,7 +8596,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Coolness decreased!
+        value: As you prepare to leave, you feel like you've learned a lot from these
+          men.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8655,8 +8665,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Sadly, your lack of flexible legs prevents you from truly impressing
-          your new fans.
+        value: '> Healthiness decreased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8672,6 +8681,10 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
+        value: Attribute(Healthiness,-1);
+        type: 0
+        typeString: 
+      - title: Response Menu Sequence
         value: 
         type: 0
         typeString: 
@@ -8724,7 +8737,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Your raucous motions, meanwhile, charge your batteries with extra energy.
+        value: At their urging, you consume an alarming amount of beer, sake, and
+          fried chicken.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8792,7 +8806,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Healthiness increased!
+        value: After a short while, you begin feeling...queasy.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8860,7 +8874,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: A small crowd has gathered to watch the funny robot try to dance.
+        value: Your emergency safety system forcibly ejects the organic material.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8928,8 +8942,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You shyly glide past the privacy curtain into the booth and float in
-          front of the screen.
+        value: You politely decline the drinking invitation and head up to the tower's
+          viewing deck.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -8997,8 +9011,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Looking around the booth, you get the sense that this is intended as
-          a group activity.
+        value: Without thinking, you fall in with a group of tourists.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -9066,7 +9079,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You feel like you understand the people of this city a little better.
+        value: The tour guide relays the history and significance of the tower in
+          the city.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -9134,7 +9148,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness increased!
+        value: The view itself is absolutely spectacular. You are deeply moved.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -9202,7 +9216,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You pose for photo after photo. Lookin' good!
+        value: As a man-made device, you're glad you can better understand Japan's
+          natural beauty.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -9270,7 +9285,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Afterwards, you decorate each picture with cute animals and icons.
+        value: '> Awareness greatly increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -9286,7 +9301,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Awareness,2);
         type: 0
         typeString: 
       conversationID: 4
@@ -9338,143 +9353,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You think you look pretty dang awesome!
-        type: 0
-        typeString: 
-      - title: Parenthetical
-        value: 
-        type: 0
-        typeString: 
-      - title: Audio Files
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Video File
-        value: 
-        type: 0
-        typeString: 
-      - title: Sequence
-        value: 
-        type: 0
-        typeString: 
-      conversationID: 4
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks:
-      - originConversationID: 4
-        originDialogueID: 42
-        destinationConversationID: 4
-        destinationDialogueID: 43
-        isConnector: 0
-        priority: 2
-      conditionsString: 
-      userScript: 
-      canvasRect:
-        serializedVersion: 2
-        x: 361
-        y: 1031
-        width: 160
-        height: 30
-    - id: 43
-      fields:
-      - title: Title
-        value: New Dialogue Entry
-        type: 0
-        typeString: 
-      - title: Pictures
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
-      - title: Actor
-        value: 2
-        type: 5
-        typeString: 
-      - title: Conversant
-        value: 1
-        type: 5
-        typeString: 
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Dialogue Text
-        value: -> Coolness increased!
-        type: 0
-        typeString: 
-      - title: Parenthetical
-        value: 
-        type: 0
-        typeString: 
-      - title: Audio Files
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Video File
-        value: 
-        type: 0
-        typeString: 
-      - title: Sequence
-        value: 
-        type: 0
-        typeString: 
-      conversationID: 4
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks:
-      - originConversationID: 4
-        originDialogueID: 43
-        destinationConversationID: 4
-        destinationDialogueID: 44
-        isConnector: 0
-        priority: 2
-      conditionsString: 
-      userScript: 
-      canvasRect:
-        serializedVersion: 2
-        x: 361
-        y: 1078
-        width: 160
-        height: 30
-    - id: 44
-      fields:
-      - title: Title
-        value: New Dialogue Entry
-        type: 0
-        typeString: 
-      - title: Pictures
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
-      - title: Actor
-        value: 2
-        type: 5
-        typeString: 
-      - title: Conversant
-        value: 1
-        type: 5
-        typeString: 
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Dialogue Text
-        value: You collect your photos and head out in search of another adventure...
+        value: You leave deeply satisfied, and return to the city below...
         type: 0
         typeString: 
       - title: Parenthetical
@@ -9505,8 +9384,8 @@ MonoBehaviour:
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 360
-        y: 1124
+        x: 361
+        y: 1031
         width: 160
         height: 30
     - id: 45
@@ -9536,8 +9415,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: As you enter, an adorable girl dressed in a maid outfit smiles at you
-          and shows you to a table.
+        value: You see an ad for the museum at the top of the tower and decide to
+          check it out.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -9605,8 +9484,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: 'You''re not sure if eating human food is a good idea, but you order
-          their specialty: a rice omelet.'
+        value: But on your way, you notice some sort of festival taking place.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -9674,8 +9552,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Just as the food arrives, the lights go down and several maids step
-          onto a nearby stage.
+        value: It's an event to celebrate a collection of local Tokyo street artists!
         type: 0
         typeString: 
       - title: Parenthetical
@@ -9743,7 +9620,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: One of them asks if you'd like to join them for their performance.
+        value: Where would you like to go?
         type: 0
         typeString: 
       - title: Parenthetical
@@ -9773,7 +9650,13 @@ MonoBehaviour:
       - originConversationID: 4
         originDialogueID: 48
         destinationConversationID: 4
-        destinationDialogueID: 49
+        destinationDialogueID: 51
+        isConnector: 0
+        priority: 2
+      - originConversationID: 4
+        originDialogueID: 48
+        destinationConversationID: 4
+        destinationDialogueID: 50
         isConnector: 0
         priority: 2
       conditionsString: 
@@ -9782,80 +9665,6 @@ MonoBehaviour:
         serializedVersion: 2
         x: 720
         y: 619
-        width: 160
-        height: 30
-    - id: 49
-      fields:
-      - title: Title
-        value: New Dialogue Entry
-        type: 0
-        typeString: 
-      - title: Pictures
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
-      - title: Actor
-        value: 2
-        type: 5
-        typeString: 
-      - title: Conversant
-        value: 1
-        type: 5
-        typeString: 
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Dialogue Text
-        value: What would you like to do?
-        type: 0
-        typeString: 
-      - title: Parenthetical
-        value: 
-        type: 0
-        typeString: 
-      - title: Audio Files
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Video File
-        value: 
-        type: 0
-        typeString: 
-      - title: Sequence
-        value: 
-        type: 0
-        typeString: 
-      conversationID: 4
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks:
-      - originConversationID: 4
-        originDialogueID: 49
-        destinationConversationID: 4
-        destinationDialogueID: 50
-        isConnector: 0
-        priority: 2
-      - originConversationID: 4
-        originDialogueID: 49
-        destinationConversationID: 4
-        destinationDialogueID: 51
-        isConnector: 0
-        priority: 2
-      conditionsString: 
-      userScript: 
-      canvasRect:
-        serializedVersion: 2
-        x: 720
-        y: 668
         width: 160
         height: 30
     - id: 50
@@ -9885,7 +9694,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Eat quietly
+        value: Street Festival
         type: 0
         typeString: 
       - title: Parenthetical
@@ -9953,7 +9762,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Join in
+        value: Museum
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10021,8 +9830,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You float up to the stage as a catchy, bubbly J-pop song begins to
-          play.
+        value: The museum is having a special exhibit on the history of Japanese technology.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10090,7 +9898,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Smiling, the maids begin to dance and move in sync.
+        value: One display has several early prototypes of...you!
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10158,7 +9966,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: One maid takes your hand and helps guide you through the choreography.
+        value: A group of older women notice this and ask to take photos of you with
+          your "ancestors".
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10226,7 +10035,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: All the customers seem to be loving it. They're loving YOU!
+        value: '> Coolness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10242,7 +10051,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Coolness,1);
         type: 0
         typeString: 
       conversationID: 4
@@ -10294,7 +10103,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Coolness increased!
+        value: Getting a first-hand look at your past helps you understand your place
+          in the world.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10362,7 +10172,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You feel like you've seen another amazing side of the city of Tokyo.
+        value: '> Awareness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10378,7 +10188,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Awareness,1);
         type: 0
         typeString: 
       conversationID: 4
@@ -10430,76 +10240,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness increased!
-        type: 0
-        typeString: 
-      - title: Parenthetical
-        value: 
-        type: 0
-        typeString: 
-      - title: Audio Files
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Video File
-        value: 
-        type: 0
-        typeString: 
-      - title: Sequence
-        value: 
-        type: 0
-        typeString: 
-      conversationID: 4
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks:
-      - originConversationID: 4
-        originDialogueID: 58
-        destinationConversationID: 4
-        destinationDialogueID: 59
-        isConnector: 0
-        priority: 2
-      conditionsString: 
-      userScript: 
-      canvasRect:
-        serializedVersion: 2
-        x: 600
-        y: 1069
-        width: 160
-        height: 30
-    - id: 59
-      fields:
-      - title: Title
-        value: New Dialogue Entry
-        type: 0
-        typeString: 
-      - title: Pictures
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
-      - title: Actor
-        value: 2
-        type: 5
-        typeString: 
-      - title: Conversant
-        value: 1
-        type: 5
-        typeString: 
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Dialogue Text
-        value: By now your food has gone cold, and you decide to head back out into
-          the city...
+        value: You leave deeply satisfied, and return to the city below...
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10531,7 +10272,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 600
-        y: 1116
+        y: 1069
         width: 160
         height: 30
     - id: 60
@@ -10561,8 +10302,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: While the staff members all dance to a catchy J-pop tune, you dig in
-          to your meal.
+        value: The festival's main attraction is a huge cement wall, around 15 meters
+          long.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10630,7 +10371,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You carefully place bite after bite into your all-purpose chest receptacle.
+        value: The wall is covered in dozens of paintings, each by a different artist.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10698,7 +10439,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You're not sure if you're equipped to process so much organic material...
+        value: You talk with the artists, absorbing their unique visual outlook on
+          the world.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10766,7 +10508,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: After a few minutes, you start to feel...funny. Drained, somehow.
+        value: '> Coolness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10782,7 +10524,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Coolness,1);
         type: 0
         typeString: 
       conversationID: 4
@@ -10834,7 +10576,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Healthiness decreased!
+        value: Zipping around looking at all the art pieces has engaged your frictional
+          battery charger.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10902,8 +10645,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You don't feel great, exactly, but you definitely learned something
-          about yourself.
+        value: You're suddenly bursting with energy!
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10971,7 +10713,75 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness increased!
+        value: '> Healthiness increased!'
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: Attribute(Healthiness,1);
+        type: 0
+        typeString: 
+      conversationID: 4
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 4
+        originDialogueID: 66
+        destinationConversationID: 4
+        destinationDialogueID: 71
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 841
+        y: 1072
+        width: 160
+        height: 30
+    - id: 68
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: You remember very little of what they talked to you about.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -10999,20 +10809,20 @@ MonoBehaviour:
       conditionPriority: 2
       outgoingLinks:
       - originConversationID: 4
-        originDialogueID: 66
+        originDialogueID: 68
         destinationConversationID: 4
-        destinationDialogueID: 67
+        destinationDialogueID: 69
         isConnector: 0
         priority: 2
       conditionsString: 
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 841
-        y: 1071
+        x: 122
+        y: 1123
         width: 160
         height: 30
-    - id: 67
+    - id: 69
       fields:
       - title: Title
         value: New Dialogue Entry
@@ -11039,7 +10849,138 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Feeling a little groggy, you decide to head back out into the city...
+        value: '> Awareness decreased!'
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: Attribute(Awareness-1);
+        type: 0
+        typeString: 
+      conversationID: 4
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 4
+        originDialogueID: 69
+        destinationConversationID: 4
+        destinationDialogueID: 70
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 122
+        y: 1170
+        width: 160
+        height: 30
+    - id: 70
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Somewhat shaken and unsure of yourself, you leave the restaurant and
+          continue on...
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 4
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 122
+        y: 1218
+        width: 160
+        height: 30
+    - id: 71
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Invigorated by the experience, you head back out into the city...
         type: 0
         typeString: 
       - title: Parenthetical
@@ -11071,7 +11012,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 840
-        y: 1120
+        y: 1121
         width: 160
         height: 30
   - id: 5
@@ -11155,7 +11096,13 @@ MonoBehaviour:
       - originConversationID: 5
         originDialogueID: 0
         destinationConversationID: 5
-        destinationDialogueID: 1
+        destinationDialogueID: 68
+        isConnector: 0
+        priority: 2
+      - originConversationID: 5
+        originDialogueID: 0
+        destinationConversationID: 5
+        destinationDialogueID: 71
         isConnector: 0
         priority: 2
       conditionsString: 
@@ -11163,7 +11110,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 483
-        y: 38
+        y: 12
         width: 160
         height: 30
     - id: 1
@@ -11193,7 +11140,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: The streets are alive with sound and color.
+        value: People rush in every direction as gigantic electronic billboards shout
+          down at them.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -11261,8 +11209,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You feel a surge of energy pouring out of every roaring doorway and
-          bustling back alley.
+        value: You can practically feel the electricity in the air!
         type: 0
         typeString: 
       - title: Parenthetical
@@ -11330,7 +11277,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Healthiness greatly increased!
+        value: '> Healthiness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -11346,7 +11293,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: Attribute(Healthiness,2);
+        value: Attribute(Healthiness,1);
+        type: 0
+        typeString: 
+      - title: Response Menu Sequence
+        value: 
         type: 0
         typeString: 
       conversationID: 5
@@ -11398,7 +11349,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Across the street a bright, flashing arcade catches your eye.
+        value: You hear the upscale shopping district calling your name.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -11466,7 +11417,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Directly ahead you see a small but cute maid cafe.
+        value: But you also know that the world-famous Hachiko statue isn't far from
+          here.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -11581,7 +11533,7 @@ MonoBehaviour:
         y: 363
         width: 160
         height: 30
-    - id: 20
+    - id: 21
       fields:
       - title: Title
         value: New Dialogue Entry
@@ -11608,7 +11560,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Maid cafe
+        value: Hachiko statue
         type: 0
         typeString: 
       - title: Parenthetical
@@ -11646,10 +11598,10 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 722
-        y: 425
+        y: 368
         width: 160
         height: 30
-    - id: 21
+    - id: 20
       fields:
       - title: Title
         value: New Dialogue Entry
@@ -11676,7 +11628,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Arcade
+        value: Shopping district
         type: 0
         typeString: 
       - title: Parenthetical
@@ -11714,7 +11666,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 241
-        y: 424
+        y: 364
         width: 160
         height: 30
     - id: 22
@@ -11744,8 +11696,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: The arcade is full of deafening noise and rainbow lights, but somehow
-          you feel at home.
+        value: You weave your way in and out of shop after shop, glancing everywhere
+          at once.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -11782,8 +11734,8 @@ MonoBehaviour:
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 241
-        y: 474
+        x: 240
+        y: 414
         width: 160
         height: 30
     - id: 23
@@ -11813,7 +11765,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You spot an arcade game nearby where you have to dance to score points.
+        value: Inside one brightly lit department store, you spot a thick, serious
+          looking book.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -11851,7 +11804,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 242
-        y: 526
+        y: 466
         width: 160
         height: 30
     - id: 24
@@ -11881,7 +11834,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Beyond that you notice a variety of cute and colorful photo booths.
+        value: Looking closer, you see it's a book of famous Japanese quotes and proverbs.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -11919,7 +11872,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 242
-        y: 579
+        y: 519
         width: 160
         height: 30
     - id: 25
@@ -11949,7 +11902,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: What would you like to do?
+        value: Not far from that, you notice a particularly trendy jacket that just
+          might fit you...
         type: 0
         typeString: 
       - title: Parenthetical
@@ -11979,13 +11933,7 @@ MonoBehaviour:
       - originConversationID: 5
         originDialogueID: 25
         destinationConversationID: 5
-        destinationDialogueID: 26
-        isConnector: 0
-        priority: 2
-      - originConversationID: 5
-        originDialogueID: 25
-        destinationConversationID: 5
-        destinationDialogueID: 27
+        destinationDialogueID: 69
         isConnector: 0
         priority: 2
       conditionsString: 
@@ -11993,7 +11941,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 241
-        y: 629
+        y: 571
         width: 160
         height: 30
     - id: 26
@@ -12023,7 +11971,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Dancing game
+        value: The book
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12061,7 +12009,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 123
-        y: 680
+        y: 679
         width: 160
         height: 30
     - id: 27
@@ -12091,7 +12039,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Photo booth
+        value: The jacket
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12159,8 +12107,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You manage to insert some change into the machine and select a song
-          to dance to.
+        value: You crack the book open and start scanning through it.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12228,7 +12175,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: The bubbly electronic dance music fills you with joy!
+        value: Language can teach you a lot about a culture, and you certainly learn
+          a lot from the book.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12296,8 +12244,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: After a few more songs, you decide to head out in search of another
-          adventure...
+        value: Regardless, you're glad you took the time to read it.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12323,12 +12270,18 @@ MonoBehaviour:
       delaySimStatus: 0
       falseConditionAction: Block
       conditionPriority: 2
-      outgoingLinks: []
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 30
+        destinationConversationID: 5
+        destinationDialogueID: 70
+        isConnector: 0
+        priority: 2
       conditionsString: 
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 123
+        x: 122
         y: 1078
         width: 160
         height: 30
@@ -12359,7 +12312,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Coolness decreased!
+        value: '> Coolness decreased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12375,7 +12328,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Coolness,-1);
         type: 0
         typeString: 
       conversationID: 5
@@ -12427,8 +12380,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Sadly, your lack of flexible legs prevents you from truly impressing
-          your new fans.
+        value: It would seem that people aren't all that interested in a book-loving
+          robot...
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12496,7 +12449,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Your raucous motions, meanwhile, charge your batteries with extra energy.
+        value: You memorize quote after quote, each one granting deeper cultural insight.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12534,7 +12487,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 121
-        y: 831
+        y: 832
         width: 160
         height: 30
     - id: 34
@@ -12564,7 +12517,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Healthiness increased!
+        value: '> Awareness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12580,7 +12533,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Awareness,1);
         type: 0
         typeString: 
       conversationID: 5
@@ -12632,7 +12585,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: A small crowd has gathered to watch the funny robot try to dance.
+        value: Meanwhile, nearby patrons are starting to give you funny looks.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12700,8 +12653,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You shyly glide past the privacy curtain into the booth and float in
-          front of the screen.
+        value: You pull the jacket off the rack and slip it on.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12769,8 +12721,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Looking around the booth, you get the sense that this is intended as
-          a group activity.
+        value: You find the nearest mirror and strike pose after stunning pose.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12838,7 +12789,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You feel like you understand the people of this city a little better.
+        value: You. Look. FABULOUS! And everyone around you knows it.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12906,7 +12857,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness increased!
+        value: Nearby patrons snap one photo after another, and you feel so good about
+          yourself.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12974,7 +12926,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You pose for photo after photo. Lookin' good!
+        value: '> Coolness greatly increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -12990,6 +12942,10 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
+        value: Attribute(Coolness,2);
+        type: 0
+        typeString: 
+      - title: Response Menu Sequence
         value: 
         type: 0
         typeString: 
@@ -13042,7 +12998,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Afterwards, you decorate each picture with cute animals and icons.
+        value: You can't afford the jacket, but just knowing how great you looked
+          in it is enough.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -13110,143 +13067,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You think you look pretty dang awesome!
-        type: 0
-        typeString: 
-      - title: Parenthetical
-        value: 
-        type: 0
-        typeString: 
-      - title: Audio Files
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Video File
-        value: 
-        type: 0
-        typeString: 
-      - title: Sequence
-        value: 
-        type: 0
-        typeString: 
-      conversationID: 5
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks:
-      - originConversationID: 5
-        originDialogueID: 42
-        destinationConversationID: 5
-        destinationDialogueID: 43
-        isConnector: 0
-        priority: 2
-      conditionsString: 
-      userScript: 
-      canvasRect:
-        serializedVersion: 2
-        x: 361
-        y: 1031
-        width: 160
-        height: 30
-    - id: 43
-      fields:
-      - title: Title
-        value: New Dialogue Entry
-        type: 0
-        typeString: 
-      - title: Pictures
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
-      - title: Actor
-        value: 2
-        type: 5
-        typeString: 
-      - title: Conversant
-        value: 1
-        type: 5
-        typeString: 
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Dialogue Text
-        value: -> Coolness increased!
-        type: 0
-        typeString: 
-      - title: Parenthetical
-        value: 
-        type: 0
-        typeString: 
-      - title: Audio Files
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Video File
-        value: 
-        type: 0
-        typeString: 
-      - title: Sequence
-        value: 
-        type: 0
-        typeString: 
-      conversationID: 5
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks:
-      - originConversationID: 5
-        originDialogueID: 43
-        destinationConversationID: 5
-        destinationDialogueID: 44
-        isConnector: 0
-        priority: 2
-      conditionsString: 
-      userScript: 
-      canvasRect:
-        serializedVersion: 2
-        x: 361
-        y: 1078
-        width: 160
-        height: 30
-    - id: 44
-      fields:
-      - title: Title
-        value: New Dialogue Entry
-        type: 0
-        typeString: 
-      - title: Pictures
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
-      - title: Actor
-        value: 2
-        type: 5
-        typeString: 
-      - title: Conversant
-        value: 1
-        type: 5
-        typeString: 
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Dialogue Text
-        value: You collect your photos and head out in search of another adventure...
+        value: You leave the store, head held high, and continue your adventure...
         type: 0
         typeString: 
       - title: Parenthetical
@@ -13277,8 +13098,8 @@ MonoBehaviour:
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 360
-        y: 1124
+        x: 361
+        y: 1031
         width: 160
         height: 30
     - id: 45
@@ -13308,8 +13129,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: As you enter, an adorable girl dressed in a maid outfit smiles at you
-          and shows you to a table.
+        value: Hachiko is a famous meeting spot, and the area is filled with folks
+          waiting anxiously.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -13339,15 +13160,15 @@ MonoBehaviour:
       - originConversationID: 5
         originDialogueID: 45
         destinationConversationID: 5
-        destinationDialogueID: 46
+        destinationDialogueID: 72
         isConnector: 0
         priority: 2
       conditionsString: 
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 722
-        y: 475
+        x: 721
+        y: 421
         width: 160
         height: 30
     - id: 46
@@ -13377,8 +13198,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: 'You''re not sure if eating human food is a good idea, but you order
-          their specialty: a rice omelet.'
+        value: Suddenly, you hear it bark! But...statues can't bark. Right...?
         type: 0
         typeString: 
       - title: Parenthetical
@@ -13446,8 +13266,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Just as the food arrives, the lights go down and several maids step
-          onto a nearby stage.
+        value: Nobody else seems to have heard it. You consider barking back to see
+          if it reacts.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -13515,7 +13335,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: One of them asks if you'd like to join them for their performance.
+        value: But maybe it's better to wait and see if it makes any more noise...
         type: 0
         typeString: 
       - title: Parenthetical
@@ -13657,7 +13477,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Eat quietly
+        value: Wait
         type: 0
         typeString: 
       - title: Parenthetical
@@ -13725,7 +13545,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Join in
+        value: Respond
         type: 0
         typeString: 
       - title: Parenthetical
@@ -13793,8 +13613,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You float up to the stage as a catchy, bubbly J-pop song begins to
-          play.
+        value: You quickly let out a series of digital barks.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -13862,7 +13681,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Smiling, the maids begin to dance and move in sync.
+        value: Suddenly everyone around you is staring at you.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -13930,7 +13749,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: One maid takes your hand and helps guide you through the choreography.
+        value: The statue doesn't bark back, so you let out another string of yelps!
         type: 0
         typeString: 
       - title: Parenthetical
@@ -13998,7 +13817,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: All the customers seem to be loving it. They're loving YOU!
+        value: Nobody seems to mind. In fact, some of them are smiling and taking
+          video of you.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -14066,7 +13886,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Coolness increased!
+        value: '> Coolness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -14082,7 +13902,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Coolness,1);
         type: 0
         typeString: 
       conversationID: 5
@@ -14134,7 +13954,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You feel like you've seen another amazing side of the city of Tokyo.
+        value: But still no reaction from the statue. You stare at it in complete
+          confusion.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -14202,7 +14023,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness increased!
+        value: '> Awareness decreased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -14218,7 +14039,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Awareness,-1);
         type: 0
         typeString: 
       conversationID: 5
@@ -14270,8 +14091,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: By now your food has gone cold, and you decide to head back out into
-          the city...
+        value: Unsure what else to do, you decide to move on and continue with your
+          adventure...
         type: 0
         typeString: 
       - title: Parenthetical
@@ -14333,8 +14154,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: While the staff members all dance to a catchy J-pop tune, you dig in
-          to your meal.
+        value: You stare at the statue in silence. You suddenly hear a sad whining
+          coming from it.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -14402,7 +14223,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You carefully place bite after bite into your all-purpose chest receptacle.
+        value: The mournful sounds reflect the original Hachiko's sad ordeal.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -14470,7 +14291,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You're not sure if you're equipped to process so much organic material...
+        value: You gain a deeper understanding of the story's cultural meaning.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -14538,7 +14359,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: After a few minutes, you start to feel...funny. Drained, somehow.
+        value: '> Awareness greatly increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -14554,7 +14375,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Awareness,2);
         type: 0
         typeString: 
       conversationID: 5
@@ -14606,7 +14427,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Healthiness decreased!
+        value: You still have no idea where the sound came from, though. How odd...
         type: 0
         typeString: 
       - title: Parenthetical
@@ -14674,144 +14495,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You don't feel great, exactly, but you definitely learned something
-          about yourself.
-        type: 0
-        typeString: 
-      - title: Parenthetical
-        value: 
-        type: 0
-        typeString: 
-      - title: Audio Files
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Video File
-        value: 
-        type: 0
-        typeString: 
-      - title: Sequence
-        value: 
-        type: 0
-        typeString: 
-      conversationID: 5
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks:
-      - originConversationID: 5
-        originDialogueID: 65
-        destinationConversationID: 5
-        destinationDialogueID: 66
-        isConnector: 0
-        priority: 2
-      conditionsString: 
-      userScript: 
-      canvasRect:
-        serializedVersion: 2
-        x: 841
-        y: 1020
-        width: 160
-        height: 30
-    - id: 66
-      fields:
-      - title: Title
-        value: New Dialogue Entry
-        type: 0
-        typeString: 
-      - title: Pictures
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
-      - title: Actor
-        value: 2
-        type: 5
-        typeString: 
-      - title: Conversant
-        value: 1
-        type: 5
-        typeString: 
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Dialogue Text
-        value: -> Awareness increased!
-        type: 0
-        typeString: 
-      - title: Parenthetical
-        value: 
-        type: 0
-        typeString: 
-      - title: Audio Files
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Video File
-        value: 
-        type: 0
-        typeString: 
-      - title: Sequence
-        value: 
-        type: 0
-        typeString: 
-      conversationID: 5
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks:
-      - originConversationID: 5
-        originDialogueID: 66
-        destinationConversationID: 5
-        destinationDialogueID: 67
-        isConnector: 0
-        priority: 2
-      conditionsString: 
-      userScript: 
-      canvasRect:
-        serializedVersion: 2
-        x: 841
-        y: 1071
-        width: 160
-        height: 30
-    - id: 67
-      fields:
-      - title: Title
-        value: New Dialogue Entry
-        type: 0
-        typeString: 
-      - title: Pictures
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
-      - title: Actor
-        value: 2
-        type: 5
-        typeString: 
-      - title: Conversant
-        value: 1
-        type: 5
-        typeString: 
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Dialogue Text
-        value: Feeling a little groggy, you decide to head back out into the city...
+        value: Leaving the mystery unsolved, you decide to move on and continue with
+          your adventure.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -14842,8 +14527,346 @@ MonoBehaviour:
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 840
-        y: 1120
+        x: 841
+        y: 1020
+        width: 160
+        height: 30
+    - id: 68
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: As soon as you arrive at the iconic crosswalk, you're overwhelmed by
+          noise and movement.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 68
+        destinationConversationID: 5
+        destinationDialogueID: 1
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 483
+        y: 61
+        width: 160
+        height: 30
+    - id: 69
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: What would you like to check out?
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 69
+        destinationConversationID: 5
+        destinationDialogueID: 26
+        isConnector: 0
+        priority: 2
+      - originConversationID: 5
+        originDialogueID: 69
+        destinationConversationID: 5
+        destinationDialogueID: 27
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 241
+        y: 625
+        width: 160
+        height: 30
+    - id: 70
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: With a head full of new knowledge, you leave the store to continue
+          your adventure...
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 121
+        y: 1128
+        width: 160
+        height: 30
+    - id: 71
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: As soon as you arrive at the iconic crosswalk, you're overwhelmed by
+          noise and movement.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 483
+        y: 62
+        width: 160
+        height: 30
+    - id: 72
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: You approach the statue and stare deeply into its eyes, contemplating
+          the noble pup's story.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 72
+        destinationConversationID: 5
+        destinationDialogueID: 46
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 719
+        y: 474
         width: 160
         height: 30
   - id: 2
@@ -14965,7 +14988,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: The streets are alive with sound and color.
+        value: Colorful signs line every corner and side street, while skyscrapers
+          stretch into the distance.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -15033,8 +15057,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You feel a surge of energy pouring out of every roaring doorway and
-          bustling back alley.
+        value: Shinjuku is home to trendy restaurants, modern fashion, and an...active
+          nightlife.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -15102,7 +15126,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Healthiness greatly increased!
+        value: '> Coolness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -15118,7 +15142,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: Attribute(Healthiness,2);
+        value: Attribute(Coolness,1);
         type: 0
         typeString: 
       conversationID: 2
@@ -15170,7 +15194,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Across the street a bright, flashing arcade catches your eye.
+        value: In the distance, you see the bright green treetops of Shinjuku Park.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -15238,7 +15262,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Directly ahead you see a small but cute maid cafe.
+        value: Close at hand is the infamous Kabukicho district, full of sound and
+          color.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -15353,7 +15378,7 @@ MonoBehaviour:
         y: 363
         width: 160
         height: 30
-    - id: 20
+    - id: 21
       fields:
       - title: Title
         value: New Dialogue Entry
@@ -15380,7 +15405,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Maid cafe
+        value: Kabukicho
         type: 0
         typeString: 
       - title: Parenthetical
@@ -15421,7 +15446,7 @@ MonoBehaviour:
         y: 425
         width: 160
         height: 30
-    - id: 21
+    - id: 20
       fields:
       - title: Title
         value: New Dialogue Entry
@@ -15448,7 +15473,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Arcade
+        value: Shinjuku Park
         type: 0
         typeString: 
       - title: Parenthetical
@@ -15485,8 +15510,8 @@ MonoBehaviour:
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 241
-        y: 424
+        x: 242
+        y: 369
         width: 160
         height: 30
     - id: 22
@@ -15516,8 +15541,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: The arcade is full of deafening noise and rainbow lights, but somehow
-          you feel at home.
+        value: You gently hover through the carefully designed natural refuge.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -15547,15 +15571,15 @@ MonoBehaviour:
       - originConversationID: 2
         originDialogueID: 22
         destinationConversationID: 2
-        destinationDialogueID: 23
+        destinationDialogueID: 68
         isConnector: 0
         priority: 2
       conditionsString: 
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 241
-        y: 474
+        x: 242
+        y: 419
         width: 160
         height: 30
     - id: 23
@@ -15585,7 +15609,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You spot an arcade game nearby where you have to dance to score points.
+        value: You notice a quiet building advertising free tea ceremony demonstrations.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -15653,7 +15677,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Beyond that you notice a variety of cute and colorful photo booths.
+        value: Beyond that you see a path lined with sakura trees in full bloom.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -15795,7 +15819,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Dancing game
+        value: Tea ceremony
         type: 0
         typeString: 
       - title: Parenthetical
@@ -15863,7 +15887,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Photo booth
+        value: Sakura viewing
         type: 0
         typeString: 
       - title: Parenthetical
@@ -15931,8 +15955,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You manage to insert some change into the machine and select a song
-          to dance to.
+        value: An elderly woman dressed in a kimono shows you to a low table.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16000,7 +16023,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: The bubbly electronic dance music fills you with joy!
+        value: You observe as she performs the ancient ceremony with slow, precise
+          movements.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16068,7 +16092,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: After a few more songs, you decide to head out in search of another
+        value: You decide no permanent damage was done, and continue on to your next
           adventure...
         type: 0
         typeString: 
@@ -16131,7 +16155,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Coolness decreased!
+        value: '> Healthiness decreased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16147,7 +16171,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Healthiness,-1);
         type: 0
         typeString: 
       conversationID: 2
@@ -16199,8 +16223,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Sadly, your lack of flexible legs prevents you from truly impressing
-          your new fans.
+        value: Your delicate internal components don't seem to react well. You feel
+          funny...
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16268,7 +16292,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Your raucous motions, meanwhile, charge your batteries with extra energy.
+        value: The activity gives you incredible insight into how modern Tokyo connects
+          with its history.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16336,7 +16361,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Healthiness increased!
+        value: '> Awareness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16352,7 +16377,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Awareness,1);
         type: 0
         typeString: 
       conversationID: 2
@@ -16404,7 +16429,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: A small crowd has gathered to watch the funny robot try to dance.
+        value: You cautiously pour some of the steaming-hot tea into your chest receptacle.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16472,8 +16497,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You shyly glide past the privacy curtain into the booth and float in
-          front of the screen.
+        value: The path is covered in fallen sakura petals. You revel in the iconic
+          beauty of the scene.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16541,8 +16566,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Looking around the booth, you get the sense that this is intended as
-          a group activity.
+        value: A group of schoolchildren notice you and clamor around you with joyful
+          admiration.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16610,7 +16635,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You feel like you understand the people of this city a little better.
+        value: '> Coolness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16626,7 +16651,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Coolness,1);
         type: 0
         typeString: 
       conversationID: 2
@@ -16678,7 +16703,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness increased!
+        value: You hover from tree to tree, viewing them from every height and angle.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16746,7 +16771,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You pose for photo after photo. Lookin' good!
+        value: Your increased movement causes your frictional charger to kick in.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16814,7 +16839,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Afterwards, you decorate each picture with cute animals and icons.
+        value: You can feel the energy building inside you!
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16882,7 +16907,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You think you look pretty dang awesome!
+        value: '> Healthiness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -16898,7 +16923,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Healthiness,1);
         type: 0
         typeString: 
       conversationID: 2
@@ -16950,75 +16975,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Coolness increased!
-        type: 0
-        typeString: 
-      - title: Parenthetical
-        value: 
-        type: 0
-        typeString: 
-      - title: Audio Files
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Video File
-        value: 
-        type: 0
-        typeString: 
-      - title: Sequence
-        value: 
-        type: 0
-        typeString: 
-      conversationID: 2
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks:
-      - originConversationID: 2
-        originDialogueID: 43
-        destinationConversationID: 2
-        destinationDialogueID: 44
-        isConnector: 0
-        priority: 2
-      conditionsString: 
-      userScript: 
-      canvasRect:
-        serializedVersion: 2
-        x: 361
-        y: 1078
-        width: 160
-        height: 30
-    - id: 44
-      fields:
-      - title: Title
-        value: New Dialogue Entry
-        type: 0
-        typeString: 
-      - title: Pictures
-        value: '[]'
-        type: 3
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
-      - title: Actor
-        value: 2
-        type: 5
-        typeString: 
-      - title: Conversant
-        value: 1
-        type: 5
-        typeString: 
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Dialogue Text
-        value: You collect your photos and head out in search of another adventure...
+        value: Feeling cool and refreshed, you continue on to your next adventure...
         type: 0
         typeString: 
       - title: Parenthetical
@@ -17049,8 +17006,8 @@ MonoBehaviour:
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 360
-        y: 1124
+        x: 361
+        y: 1078
         width: 160
         height: 30
     - id: 45
@@ -17080,8 +17037,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: As you enter, an adorable girl dressed in a maid outfit smiles at you
-          and shows you to a table.
+        value: You float down each side street and back alley, taking in as much of
+          the view as you can.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -17149,8 +17106,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: 'You''re not sure if eating human food is a good idea, but you order
-          their specialty: a rice omelet.'
+        value: Busy pedestrians barely notice you, and you have to move quickly to
+          avoid collisions.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -17218,8 +17175,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Just as the food arrives, the lights go down and several maids step
-          onto a nearby stage.
+        value: Suddenly, a flashy sign advertising a neo-classical kabuki performance
+          catches your eye.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -17287,7 +17244,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: One of them asks if you'd like to join them for their performance.
+        value: Beyond that, you see someone in a robot costume advertising a theme
+          restaurant.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -17429,7 +17387,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Eat quietly
+        value: Robot restaurant
         type: 0
         typeString: 
       - title: Parenthetical
@@ -17497,7 +17455,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Join in
+        value: Kabuki theater
         type: 0
         typeString: 
       - title: Parenthetical
@@ -17565,8 +17523,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You float up to the stage as a catchy, bubbly J-pop song begins to
-          play.
+        value: You're ushered into a traditional yet stylish theater.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -17634,7 +17591,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Smiling, the maids begin to dance and move in sync.
+        value: You make your way to a seat near the stage just as the show begins.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -17702,7 +17659,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: One maid takes your hand and helps guide you through the choreography.
+        value: The performance is a modern retelling of an especially old tale. It's
+          very impressive!
         type: 0
         typeString: 
       - title: Parenthetical
@@ -17770,7 +17728,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: All the customers seem to be loving it. They're loving YOU!
+        value: You feel that the combination of modern and traditional style is a
+          reflection of Tokyo itself.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -17838,7 +17797,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Coolness increased!
+        value: '> Awareness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -17854,7 +17813,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Awareness,1);
         type: 0
         typeString: 
       conversationID: 2
@@ -17906,7 +17865,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You feel like you've seen another amazing side of the city of Tokyo.
+        value: The show also utilizes a number of semi-autonomous robots.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -17974,7 +17933,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness increased!
+        value: You're able to sense the electrical energy they give off, and absorb
+          some of it for yourself!
         type: 0
         typeString: 
       - title: Parenthetical
@@ -18042,8 +18002,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: By now your food has gone cold, and you decide to head back out into
-          the city...
+        value: '> Healthiness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -18059,7 +18018,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Healthiness,1);
         type: 0
         typeString: 
       conversationID: 2
@@ -18069,7 +18028,13 @@ MonoBehaviour:
       delaySimStatus: 0
       falseConditionAction: Block
       conditionPriority: 2
-      outgoingLinks: []
+      outgoingLinks:
+      - originConversationID: 2
+        originDialogueID: 59
+        destinationConversationID: 2
+        destinationDialogueID: 69
+        isConnector: 0
+        priority: 2
       conditionsString: 
       userScript: 
       canvasRect:
@@ -18105,8 +18070,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: While the staff members all dance to a catchy J-pop tune, you dig in
-          to your meal.
+        value: The inside of the robot restaurant is crowded with eager patrons.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -18174,7 +18138,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You carefully place bite after bite into your all-purpose chest receptacle.
+        value: All the surfaces are shiny chrome. All the costumes are colorful and
+          metallic.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -18242,7 +18207,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You're not sure if you're equipped to process so much organic material...
+        value: It. Is. So. COOL!
         type: 0
         typeString: 
       - title: Parenthetical
@@ -18310,7 +18275,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: After a few minutes, you start to feel...funny. Drained, somehow.
+        value: '> Coolness increased!'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -18326,7 +18291,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: Attribute(Coolness,1);
         type: 0
         typeString: 
       conversationID: 2
@@ -18378,7 +18343,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Healthiness decreased!
+        value: The performers run and jump and dance and swing, while waiters serve
+          dish after dish.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -18446,8 +18412,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: You don't feel great, exactly, but you definitely learned something
-          about yourself.
+        value: You decide to sample a particularly tasty looking crab cake.
         type: 0
         typeString: 
       - title: Parenthetical
@@ -18515,7 +18480,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: -> Awareness increased!
+        value: '...Not a good idea. The crab cake seems to be fighting with your internal
+          machinery.'
         type: 0
         typeString: 
       - title: Parenthetical
@@ -18583,7 +18549,145 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Feeling a little groggy, you decide to head back out into the city...
+        value: '> Healthiness decreased!'
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: Attribute(Healthiness,-1);
+        type: 0
+        typeString: 
+      conversationID: 2
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 2
+        originDialogueID: 67
+        destinationConversationID: 2
+        destinationDialogueID: 70
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 839
+        y: 1121
+        width: 160
+        height: 30
+    - id: 68
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: The only sign of the outside world is the tops of nearby buildings
+          hovering above the trees.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 2
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 2
+        originDialogueID: 68
+        destinationConversationID: 2
+        destinationDialogueID: 23
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 242
+        y: 471
+        width: 160
+        height: 30
+    - id: 69
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Feeling educated and energized, you make your way outside and on to
+          the next adventure...
         type: 0
         typeString: 
       - title: Parenthetical
@@ -18614,14 +18718,145 @@ MonoBehaviour:
       userScript: 
       canvasRect:
         serializedVersion: 2
+        x: 601
+        y: 1166
+        width: 160
+        height: 30
+    - id: 70
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Regardless, the show was incredible and you begin to feel better.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 2
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 2
+        originDialogueID: 70
+        destinationConversationID: 2
+        destinationDialogueID: 71
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
         x: 840
-        y: 1120
+        y: 1170
+        width: 160
+        height: 30
+    - id: 71
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: After a short break to recover, you make your way outside and on to
+          the next adventure...
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 2
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 841
+        y: 1220
         width: 160
         height: 30
   - id: 7
     fields:
     - title: Title
-      value: Tokyo_Final_Conversation
+      value: Tokyo_Finish
       type: 0
       typeString: 
     - title: Pictures
@@ -18737,8 +18972,280 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Uh oh! Looks like you've run out of time on this trip. I sure hope
-          you had fun. Would you like to play again?
+        value: And...time's up! It looks like you've shown our little robot friend
+          quite a good time.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 7
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 7
+        originDialogueID: 1
+        destinationConversationID: 7
+        destinationDialogueID: 2
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 287
+        y: 159
+        width: 160
+        height: 30
+    - id: 2
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Please wait a moment while we analyze the results...
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 7
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 7
+        originDialogueID: 2
+        destinationConversationID: 7
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 285
+        y: 212
+        width: 160
+        height: 30
+    - id: 3
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: '...'
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 7
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 7
+        originDialogueID: 3
+        destinationConversationID: 7
+        destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 285
+        y: 267
+        width: 160
+        height: 30
+    - id: 4
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: "\rAll done! They grow up so quickly, don't they?\r"
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 7
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 7
+        originDialogueID: 4
+        destinationConversationID: 7
+        destinationDialogueID: 5
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 284
+        y: 321
+        width: 160
+        height: 30
+    - id: 5
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Let's hear what Niju has to say about its very first Tokyo adventure!
         type: 0
         typeString: 
       - title: Parenthetical
@@ -18770,13 +19277,13 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 286
-        y: 200
+        y: 372
         width: 160
         height: 30
   - id: 1
     fields:
     - title: Title
-      value: Tokyo_Initial_Conversation
+      value: Tokyo_Part_1
       type: 0
       typeString: 
     - title: Pictures
@@ -18862,7 +19369,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 99
-        y: 128
+        y: 57
         width: 160
         height: 30
     - id: 1
@@ -18892,8 +19399,213 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Hello, and welcome to Tokyo! Please select where you would like to
-          go.
+        value: Okay, let's get started! Please choose what part of Tokyo you'd like
+          to visit first.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 1
+        destinationConversationID: 1
+        destinationDialogueID: 2
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 98
+        y: 117
+        width: 160
+        height: 30
+    - id: 2
+      fields:
+      - title: Title
+        value: Tokyo_Initial_Dialogue
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: We'll be recording your progress and updating you as you go.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 2
+        destinationConversationID: 1
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 98
+        y: 176
+        width: 160
+        height: 30
+    - id: 3
+      fields:
+      - title: Title
+        value: Tokyo_Initial_Dialogue
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Remember, everywhere you go and everything you do will affect how the
+          robot grows.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 3
+        destinationConversationID: 1
+        destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 99
+        y: 237
+        width: 160
+        height: 30
+    - id: 4
+      fields:
+      - title: Title
+        value: Tokyo_Initial_Dialogue
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: So choose carefully!
         type: 0
         typeString: 
       - title: Parenthetical
@@ -18924,14 +19636,14 @@ MonoBehaviour:
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 99
-        y: 178
+        x: 100
+        y: 292
         width: 160
         height: 30
   - id: 3
     fields:
     - title: Title
-      value: Tokyo_Next_Location
+      value: Tokyo_Part_2
       type: 0
       typeString: CustomFieldType_Text
     - title: Pictures
@@ -19047,7 +19759,75 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Looks like you had a lot of fun! Okay, where would you like to go next?
+        value: Great, we got some really amazing data from that experience!
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 3
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 3
+        originDialogueID: 1
+        destinationConversationID: 3
+        destinationDialogueID: 2
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 101
+        y: 166
+        width: 160
+        height: 30
+    - id: 2
+      fields:
+      - title: Title
+        value: Tokyo_Next_Selection
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Now then, where would you like to go next?
         type: 0
         typeString: 
       - title: Parenthetical
@@ -19078,8 +19858,2232 @@ MonoBehaviour:
       userScript: 
       canvasRect:
         serializedVersion: 2
-        x: 101
-        y: 166
+        x: 102
+        y: 221
+        width: 160
+        height: 30
+  - id: 8
+    fields:
+    - title: Title
+      value: Tokyo_Part_3
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[]'
+      type: 3
+      typeString: 
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: Actor
+      value: 1
+      type: 5
+      typeString: CustomFieldType_Actor
+    - title: Conversant
+      value: 2
+      type: 5
+      typeString: CustomFieldType_Actor
+    nodeColor: 
+    dialogueEntries:
+    - id: 0
+      fields:
+      - title: Title
+        value: START
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 2
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: None()
+        type: 0
+        typeString: 
+      conversationID: 8
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 8
+        originDialogueID: 0
+        destinationConversationID: 8
+        destinationDialogueID: 1
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 30
+        y: 20
+        width: 160
+        height: 30
+    - id: 1
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Wow! That was quite unexpected, I must admit!
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 8
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 8
+        originDialogueID: 1
+        destinationConversationID: 8
+        destinationDialogueID: 2
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 30
+        y: 70
+        width: 160
+        height: 30
+    - id: 2
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: I'd better make a special note about this...
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 8
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 8
+        originDialogueID: 2
+        destinationConversationID: 8
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 31
+        y: 122
+        width: 160
+        height: 30
+    - id: 3
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: So! Where would you like to go for your final adventure?
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 8
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 32
+        y: 177
+        width: 160
+        height: 30
+  - id: 9
+    fields:
+    - title: Title
+      value: AwarenessEnding
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[]'
+      type: 3
+      typeString: 
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: Actor
+      value: 1
+      type: 5
+      typeString: CustomFieldType_Actor
+    - title: Conversant
+      value: 2
+      type: 5
+      typeString: CustomFieldType_Actor
+    nodeColor: 
+    dialogueEntries:
+    - id: 0
+      fields:
+      - title: Title
+        value: START
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 2
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: None()
+        type: 0
+        typeString: 
+      conversationID: 9
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 9
+        originDialogueID: 0
+        destinationConversationID: 9
+        destinationDialogueID: 1
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 241
+        y: 87
+        width: 160
+        height: 30
+    - id: 1
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: I saw a side of Tokyo not many people get to experience.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 9
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 9
+        originDialogueID: 1
+        destinationConversationID: 9
+        destinationDialogueID: 2
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 239
+        y: 143
+        width: 160
+        height: 30
+    - id: 2
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Traditional Japanese culture is still alive and well in Tokyo.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 9
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 9
+        originDialogueID: 2
+        destinationConversationID: 9
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 240
+        y: 195
+        width: 160
+        height: 30
+    - id: 3
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: But it's also been mixed and combined with modern technology and perspective!
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 9
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 9
+        originDialogueID: 3
+        destinationConversationID: 9
+        destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 240
+        y: 245
+        width: 160
+        height: 30
+    - id: 4
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: I may not have learned as much about fashion or pop culture, but I
+          still had a lot of fun.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 9
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 9
+        originDialogueID: 4
+        destinationConversationID: 9
+        destinationDialogueID: 5
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 240
+        y: 295
+        width: 160
+        height: 30
+    - id: 5
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: I can't wait to see even more of Tokyo!
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 9
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 241
+        y: 346
+        width: 160
+        height: 30
+  - id: 10
+    fields:
+    - title: Title
+      value: CoolnessEnding
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[]'
+      type: 3
+      typeString: 
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: Actor
+      value: 1
+      type: 5
+      typeString: CustomFieldType_Actor
+    - title: Conversant
+      value: 2
+      type: 5
+      typeString: CustomFieldType_Actor
+    nodeColor: 
+    dialogueEntries:
+    - id: 0
+      fields:
+      - title: Title
+        value: START
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 2
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: None()
+        type: 0
+        typeString: 
+      conversationID: 10
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 10
+        originDialogueID: 0
+        destinationConversationID: 10
+        destinationDialogueID: 1
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 30
+        y: 20
+        width: 160
+        height: 30
+    - id: 1
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Oh. My. Gosh! Tokyo is AWESOME! The clothes, the stores, the style,
+          it's so amazing!
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 10
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 10
+        originDialogueID: 1
+        destinationConversationID: 10
+        destinationDialogueID: 2
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 30
+        y: 70
+        width: 160
+        height: 30
+    - id: 2
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: There isn't anyplace on the whole planet like Tokyo, it's just that
+          simple.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 10
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 10
+        originDialogueID: 2
+        destinationConversationID: 10
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 160
+        height: 30
+    - id: 3
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Maybe I didn't learn as much about what Tokyo was like in the past,
+          but that's okay.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 10
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 10
+        originDialogueID: 3
+        destinationConversationID: 10
+        destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 50
+        y: 170
+        width: 160
+        height: 30
+    - id: 4
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Because I believe in living in the moment!
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 10
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 10
+        originDialogueID: 4
+        destinationConversationID: 10
+        destinationDialogueID: 5
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 60
+        y: 220
+        width: 160
+        height: 30
+    - id: 5
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: I can't wait to see even more of Tokyo!
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 10
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 70
+        y: 270
+        width: 160
+        height: 30
+  - id: 11
+    fields:
+    - title: Title
+      value: HealthEndingGood
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[]'
+      type: 3
+      typeString: 
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: Actor
+      value: 1
+      type: 5
+      typeString: CustomFieldType_Actor
+    - title: Conversant
+      value: 2
+      type: 5
+      typeString: CustomFieldType_Actor
+    nodeColor: 
+    dialogueEntries:
+    - id: 0
+      fields:
+      - title: Title
+        value: START
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 2
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: None()
+        type: 0
+        typeString: 
+      conversationID: 11
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 11
+        originDialogueID: 0
+        destinationConversationID: 11
+        destinationDialogueID: 1
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 30
+        y: 20
+        width: 160
+        height: 30
+    - id: 1
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Wow wow WOW! You wanna know what I learned about Tokyo?
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 11
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 11
+        originDialogueID: 1
+        destinationConversationID: 11
+        destinationDialogueID: 2
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 30
+        y: 70
+        width: 160
+        height: 30
+    - id: 2
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: It's full of ENERGY! So many high-tech gadgets to play with, so much
+          to see!
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 11
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 11
+        originDialogueID: 2
+        destinationConversationID: 11
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 160
+        height: 30
+    - id: 3
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: The city is just overflowing with all this amazing energy!
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 11
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 11
+        originDialogueID: 3
+        destinationConversationID: 11
+        destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 50
+        y: 170
+        width: 160
+        height: 30
+    - id: 4
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Sure, the history is fine and pop culture is cool, but I just love
+          how alive the city is.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 11
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 11
+        originDialogueID: 4
+        destinationConversationID: 11
+        destinationDialogueID: 5
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 60
+        y: 220
+        width: 160
+        height: 30
+    - id: 5
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: I can't wait to see even more of Tokyo!
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 11
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 70
+        y: 270
+        width: 160
+        height: 30
+  - id: 12
+    fields:
+    - title: Title
+      value: HealthEndingBad
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[]'
+      type: 3
+      typeString: 
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: Actor
+      value: 1
+      type: 5
+      typeString: CustomFieldType_Actor
+    - title: Conversant
+      value: 2
+      type: 5
+      typeString: CustomFieldType_Actor
+    nodeColor: 
+    dialogueEntries:
+    - id: 0
+      fields:
+      - title: Title
+        value: START
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 2
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: None()
+        type: 0
+        typeString: 
+      conversationID: 12
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 12
+        originDialogueID: 0
+        destinationConversationID: 12
+        destinationDialogueID: 1
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 30
+        y: 20
+        width: 160
+        height: 30
+    - id: 1
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Ng... Ugh... I don't feel so good. Batteries...drained. Insides...icky...
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 12
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 12
+        originDialogueID: 1
+        destinationConversationID: 12
+        destinationDialogueID: 2
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 30
+        y: 70
+        width: 160
+        height: 30
+    - id: 2
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Tokyo seems like an amazing city, but I think I made some bad choices.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 12
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 12
+        originDialogueID: 2
+        destinationConversationID: 12
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 160
+        height: 30
+    - id: 3
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Still, I saw (and ate!) lots of really amazing things, and met some
+          incredible people.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 12
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 12
+        originDialogueID: 3
+        destinationConversationID: 12
+        destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 50
+        y: 170
+        width: 160
+        height: 30
+    - id: 4
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: I can't wait to see even more of Tokyo! ...After I recharge for a while.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 12
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 60
+        y: 220
+        width: 160
+        height: 30
+  - id: 13
+    fields:
+    - title: Title
+      value: Epilogue
+      type: 0
+      typeString: 
+    - title: Pictures
+      value: '[]'
+      type: 3
+      typeString: 
+    - title: Description
+      value: 
+      type: 0
+      typeString: 
+    - title: Actor
+      value: 1
+      type: 5
+      typeString: CustomFieldType_Actor
+    - title: Conversant
+      value: 2
+      type: 5
+      typeString: CustomFieldType_Actor
+    nodeColor: 
+    dialogueEntries:
+    - id: 0
+      fields:
+      - title: Title
+        value: START
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 2
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: None()
+        type: 0
+        typeString: 
+      conversationID: 13
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: 
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 13
+        originDialogueID: 0
+        destinationConversationID: 13
+        destinationDialogueID: 1
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 30
+        y: 20
+        width: 160
+        height: 30
+    - id: 1
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Well then, that about wraps it up! We want to thank you again for all
+          your help.
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 13
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 13
+        originDialogueID: 1
+        destinationConversationID: 13
+        destinationDialogueID: 2
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 30
+        y: 70
+        width: 160
+        height: 30
+    - id: 2
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Look for Niju on store shelves by Christmas 2022!
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 13
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 13
+        originDialogueID: 2
+        destinationConversationID: 13
+        destinationDialogueID: 3
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 160
+        height: 30
+    - id: 3
+      fields:
+      - title: Title
+        value: New Dialogue Entry
+        type: 0
+        typeString: 
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: 
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: 
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Thanks for playing!
+        type: 0
+        typeString: 
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: 
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: 
+      - title: Video File
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 13
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      canvasRect:
+        serializedVersion: 2
+        x: 50
+        y: 170
         width: 160
         height: 30
   syncInfo:
