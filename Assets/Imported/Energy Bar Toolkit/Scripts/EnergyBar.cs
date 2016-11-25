@@ -69,6 +69,18 @@ public class EnergyBar : MonoBehaviour {
         if (animationEnabled) {
             valueCurrent = valueMin + (int) (animValueF * (valueMax - valueMin));
         }
+        if (animationEnabled)
+        {
+            valueCurrent = valueMin + (int)(animValueF * (valueMax - valueMin));
+        }
+
+        var fsm = Camera.main.gameObject.GetComponent<PlayMakerFSM>();
+        var attribute = valueCurrent;
+        if (fsm.FsmVariables != null)
+        {
+            attribute = fsm.FsmVariables.GetFsmInt(this.gameObject.name).Value;
+        }
+        valueCurrent = attribute;
     }
 
     // ===========================================================
