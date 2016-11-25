@@ -12,37 +12,50 @@ public class UIManager : MonoBehaviour {
     void Awake()
     {
         DontDestroyOnLoad(transform.gameObject);
+        
     }
 
     // Use this for initialization
     void Start()
     {
         language = "";
+    }  
+    
+  /*  void OnLevelWasLoaded()
+    {
+        language = "";
         Time.timeScale = 1;
         pauseObjects = GameObject.FindGameObjectsWithTag("ShowOnPause");
         hidePaused();
-    }
+    }*/
 
     // Update is called once per frame
     void Update()
     {
+        /*if (Input.GetKeyDown(KeyCode.Mouse0))
+        {
+            if(Time.timeScale==1)
+                InputTrigger
+        }
 
-        //uses the p button to pause and unpause the game
-        if (Input.GetKeyDown(KeyCode.P))
+            //uses the p button to pause and unpause the game
+            if (Input.GetKeyDown(KeyCode.P))
         {
             if (Time.timeScale == 1)
             {
                 Time.timeScale = 0;
                 showPaused();
+                DialogueManager.Pause();
             }
             else if (Time.timeScale == 0)
             {
                 Debug.Log("high");
                 Time.timeScale = 1;
                 hidePaused();
+                DialogueManager.Unpause();
             }
-        }
-        if(Application.loadedLevel==1)
+        }*/
+        if(SceneManager.GetActiveScene().buildIndex==1)
             if (language.Equals("jp"))
             {
                 DialogueManager.SetLanguage("jp");
@@ -54,43 +67,8 @@ public class UIManager : MonoBehaviour {
     //Reloads the Level
     public void Reload()
     {
-        Application.LoadLevel(Application.loadedLevel);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
-
-    //controls the pausing of the scene
-    public void pauseControl()
-    {
-        if (Time.timeScale == 1)
-        {
-            Time.timeScale = 0;
-            showPaused();
-        }
-        else if (Time.timeScale == 0)
-        {
-            Time.timeScale = 1;
-            hidePaused();
-        }
-    }
-
-    //shows objects with ShowOnPause tag
-    public void showPaused()
-    {
-        foreach (GameObject g in pauseObjects)
-        {
-            g.SetActive(true);
-        }
-    }
-
-    //hides objects with ShowOnPause tag
-    public void hidePaused()
-    {
-        foreach (GameObject g in pauseObjects)
-        {
-            g.SetActive(false);
-        }
-    }
-
-
 
     public void LoadLevel(int levelIndex)
     {
@@ -110,6 +88,7 @@ public class UIManager : MonoBehaviour {
     {
         Application.Quit();
     }
+    
 
 
    /* //loads inputted level
