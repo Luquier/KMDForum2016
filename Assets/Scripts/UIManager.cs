@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class UIManager : MonoBehaviour {
 
     GameObject[] pauseObjects;
-    private string language;
+    public string language;
 
 
     void Awake()
