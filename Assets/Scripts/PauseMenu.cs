@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using PixelCrushers.DialogueSystem;
+using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour {
 
@@ -70,6 +71,9 @@ public class PauseMenu : MonoBehaviour {
         }
     }
 
-
+    public void LoadLevel(int levelIndex)
+    {
+        SceneManager.LoadScene(levelIndex);
+    }
 
 }
