@@ -1,16 +1,23 @@
 ﻿using UnityEngine;
 using System.Collections;
+using PixelCrushers.DialogueSystem;
 using UnityEngine.SceneManagement;
 
 public class UIManager : MonoBehaviour {
 
     GameObject[] pauseObjects;
+    private string language;
 
+
+    void Awake()
+    {
+        DontDestroyOnLoad(transform.gameObject);
+    }
 
     // Use this for initialization
     void Start()
     {
-
+        language = "";
         Time.timeScale = 1;
         pauseObjects = GameObject.FindGameObjectsWithTag("ShowOnPause");
         hidePaused();
@@ -35,6 +42,12 @@ public class UIManager : MonoBehaviour {
                 hidePaused();
             }
         }
+        if(Application.loadedLevel==1)
+            if (language.Equals("jp"))
+            {
+                DialogueManager.SetLanguage("jp");
+            }
+
     }
 
 
@@ -83,10 +96,21 @@ public class UIManager : MonoBehaviour {
     {
         SceneManager.LoadScene(levelIndex);
     }
+    public void LoadLevelJp(int levelIndex)
+    {
+        language = "jp";
+        SceneManager.LoadScene(levelIndex);
+    }
+    public void LoadLevelEn(int levelIndex)
+    {
+        language = "";
+        SceneManager.LoadScene(levelIndex);
+    }
     public void ExitApplication()
     {
         Application.Quit();
     }
+
 
    /* //loads inputted level
     public void LoadLevel(string level)
