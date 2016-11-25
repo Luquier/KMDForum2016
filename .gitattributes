@@ -16,7 +16,3 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-#merge scenes
-*.unity binary
-*.prefab binary
-*.asset binary
