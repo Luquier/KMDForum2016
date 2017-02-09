@@ -33,7 +33,7 @@ public class Utils {
     public static void SetReadable(Texture texture) {
         var assetPath = AssetDatabase.GetAssetPath(texture);
         var textureImporter = AssetImporter.GetAtPath(assetPath) as TextureImporter;
-        textureImporter.textureType = TextureImporterType.Advanced;
+        textureImporter.textureType = TextureImporterType.Default;
         textureImporter.isReadable = true;
 
         AssetDatabase.ImportAsset(assetPath, ImportAssetOptions.ForceUpdate);
